@@ -1,0 +1,1 @@
+package loopingAndRangesfun main() {    val s = "seunghan"    for (i in 0..s.lastIndex) {        print("${s[i]} ")    }}

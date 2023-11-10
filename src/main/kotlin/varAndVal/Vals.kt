@@ -1,0 +1,1 @@
+package varAndVal// val - 값, 한 번만 초기화 가능// val을 초기화 하고 나면 재대입 할 수 없다. val cannot be reassignedfun main() {    val whole = 11    val factional = 1.4    val words = "Twas Brilling"    println(whole)    println(factional)    println(words)}

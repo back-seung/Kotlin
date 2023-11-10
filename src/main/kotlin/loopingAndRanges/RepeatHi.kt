@@ -1,0 +1,1 @@
+package loopingAndRangesfun main() {    repeat(2) {        println("Hi")    }}
