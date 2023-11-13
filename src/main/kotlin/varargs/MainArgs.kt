@@ -1,0 +1,1 @@
+package varargs// args라는 이름은 전통적이지만, 굳이 지켜야 할 필요는 없다.// 다만 args의 타입은 무조건 Array<String>이다.fun main(args: Array<String>) {    for (a in args) {        println(a)    }}

@@ -1,0 +1,1 @@
+package packagesimport kotlin.math.*// 모든 내용을 임포트하려면 "*"를 사용하면 된다.fun main() {    println(E)    println(E.roundToInt())    println(E.toInt())}

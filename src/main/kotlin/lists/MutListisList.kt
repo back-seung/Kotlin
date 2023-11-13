@@ -1,0 +1,1 @@
+package listsimport atomicTest.eqfun getList(): List<Int> = mutableListOf(1, 2, 3)fun main() {    val list = getList()//    list += 4 mutableList를 리턴하려고 하지만 멤버 함수의 getList의 반환 타입이 List<Int>이기 때문에 가변 불가    list eq listOf(1, 2, 3)}
