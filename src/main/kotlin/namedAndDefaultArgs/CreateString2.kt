@@ -1,0 +1,1 @@
+package namedAndDefaultArgsimport atomicTest.eqfun main() {    val list = listOf(1, 2, 3)    list.joinToString(". ", "", "!") eq "1. 2. 3!" // 인자 이름 지정하지 않음. 가독성 떨어짐    list.joinToString(separator = ". ", postfix = "!") eq "1. 2. 3!"          // 인자 이름 지정. 가독성 향상}

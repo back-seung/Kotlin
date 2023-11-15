@@ -1,0 +1,1 @@
+package nullableTypesclass Amphibianenum class Species {    Frog, Toad, Salamander, Caecilian}fun main() {    // 널이 될 수 있는 타입을 지정하기 위해 따로 정의해야 하는 무언가가 필요하진 않다.    val a1: Amphibian = Amphibian()    val a2: Amphibian? = null    val at1: Species = Species.Toad    val at2: Species? = null}

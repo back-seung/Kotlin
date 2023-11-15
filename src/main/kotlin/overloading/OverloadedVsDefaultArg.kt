@@ -1,0 +1,1 @@
+package overloadingimport atomicTest.tracefun foo(n: Int = 99) = trace("foo-1-$n") // default 인자fun foo() {                                   // Overloading    trace("foo-2")    foo(14)}fun main() {    foo() // 디폴트 인자와 함수 오버로딩이 겹치는 경우, 함수 시그니처와 가장 비슷한 함수를 호출함    trace eq """        foo-2        foo-1-14    """}

@@ -1,0 +1,1 @@
+package enumerationsimport atomicTest.eqenum class Level {    OverFlow, High, Medium, Low, Empty}fun main() {    Level.Medium eq "Medium"}

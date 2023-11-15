@@ -1,0 +1,1 @@
+package overloadingimport atomicTest.eqclass Overloaing {    fun f() = 0 // 함수의 시그니처 : 함수 이름, 파라미터, 리턴 타입    fun f(n: Int) = n + 2 // 같은 이름의 함수를 Overloaing 함}fun main() {    val o = Overloaing()    o.f() eq 0    o.f(11) eq 13}

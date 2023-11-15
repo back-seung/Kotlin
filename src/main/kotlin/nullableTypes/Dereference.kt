@@ -1,0 +1,1 @@
+package nullableTypesimport atomicTest.eqimport atomicTest.tracefun main() {    val s1: String = "abc"    val s2: String = s1    s1.length eq 3    // 컴파일 되지 않는다, 코틀린은 Null이 될 수 있는 타입의 역참조를 할 수 없다.    // trace(2.length)}

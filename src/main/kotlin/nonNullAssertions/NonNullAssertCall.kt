@@ -1,0 +1,1 @@
+package nonNullAssertionsimport atomicTest.eqfun main() {    val s: String? = "abc"    s!!.length eq 3}

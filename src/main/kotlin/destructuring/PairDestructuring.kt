@@ -1,0 +1,1 @@
+package destructuringimport destructuring.computeimport atomicTest.eqfun main() {    val (value, description) = compute(7)    value eq 7    description eq "High"}
