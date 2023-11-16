@@ -1,0 +1,1 @@
+package higherOrderFuntionsimport atomicTest.tracefun repeat(    times: Int,    action: (Int) -> Unit) {    for (index in 0..times) {        action(index)    }}fun main() {    repeat(3) { trace("#$it") }    trace eq "#0 #1 #2"}

@@ -1,0 +1,1 @@
+package higherOrderFuntionsimport atomicTest.tracefun main() {    repeat(4) { trace("Hi")}    trace eq "Hi Hi Hi Hi"}
