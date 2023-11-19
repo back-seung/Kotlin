@@ -1,0 +1,1 @@
+package composition3interface Buildinginterface Kitcheninterface House : Building { // House is a Building    val kitchens: List<Kitchen> // House has a Kitchen1}

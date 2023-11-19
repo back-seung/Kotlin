@@ -1,0 +1,1 @@
+package downCastingimport atomicTest.eqfun main() {    // filter는 리스트 내부의 Human을 찾음에도 List<Creature>를 반환하고    val humans1: List<Creature> =        group.filter { it is Human }    humans1.size eq 2    // filterIsInstance는 List<Human>을 반환한다.    val humans2: List<Human> =        group.filterIsInstance<Human>()    humans2 eq humans1}
