@@ -1,0 +1,1 @@
+package polyMorphismopen class Pet {    open fun speak() = "Pet"}class Dog : Pet {    open fun speak() = "Pet"}class Dog : Pet() {    override fun speak() = "Bark"}class Cat : Pet() {    override fun speak() = "Meow"}

@@ -1,0 +1,1 @@
+package localFunctionsimport atomicTest.eqfun main() {    val logMsg = StringBuilder()    fun log(message: String) =      // 지역 함수        logMsg.appendLine(message)    log("Starting computation")    val x = 42 // 계산 흉내냄    log("Computation result: $x")    logMsg.toString() eq """        Starting computation        Computation result: 42    """}

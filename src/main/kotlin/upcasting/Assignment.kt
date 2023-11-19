@@ -1,0 +1,1 @@
+package upcastingfun main() {    val shape1: Shape = Square()    val shape2: Shape = Triangle()// Square(), Triangle()로 초기화해도,// 인자의 타입이 Shape 로 업캐스트 되었기 때문에 컴파일 되지 않는다//    shape1.color()//    shape2.rotate()}
