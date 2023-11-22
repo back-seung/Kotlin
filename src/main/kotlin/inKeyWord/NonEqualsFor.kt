@@ -1,1 +1,0 @@
-package inKeyWordfun main() {    for (i in 1..10) {  // for안에 있는 in 키워드는 이터레이션을 뜻한다.        print(i)    }    val percent = 35    println(percent in 1..100) // 그 외에 in 키워드는 원소인지 여부를 검사한다는 뜻이다}

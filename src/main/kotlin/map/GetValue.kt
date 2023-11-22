@@ -1,1 +1,0 @@
-package mapimport atomicTest.captureimport atomicTest.eqfun main() {    val map = mapOf('a' to "attempt")    capture {        map.getValue('b')    } eq "NoSuchElementException: " +            "Key b is missing in the map."    map.getOrDefault('a', "??") eq "attempt"    map.getOrDefault('b', "??") eq "??"}

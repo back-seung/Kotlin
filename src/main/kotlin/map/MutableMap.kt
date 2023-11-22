@@ -1,1 +1,0 @@
-package mapimport atomicTest.eqfun main() {    val m = mutableMapOf(5 to "five", 6 to "six") // mapOf() 즉, 읽기 전용 Map은 상태 변경을 허용하지 않는다.    m[5] eq "five"    m[5] = "5ive"    m[5] eq "5ive"    m += 4 to "four"    m eq mapOf(5 to "5ive", 4 to "four", 6 to "six")}

@@ -1,1 +1,0 @@
-package functions// 코틀린은 식 본문의 반환 타입(Return Type)만 추론한다.// 함수가 블록 본문이며 반환 타입을 지정하지 않는 것은 Unit이라고 지정한 것과 같다.fun multiplyByFour(x: Int) = x * 4;fun main() {    val answer = multiplyByFour(4)    println("answer = ${answer}")}

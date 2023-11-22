@@ -1,1 +1,0 @@
-package overloadingimport atomicTest.eqfun f1(n: Int = 0) = n + 373fun main() {    f() eq 373}

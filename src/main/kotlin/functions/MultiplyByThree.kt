@@ -1,1 +1,0 @@
-package functions// 하나의 식으로만 이뤄진 경우, 동호 뒤에 그 식을 넣어서 함수를 짧게 작성할 수 있다. == 식본문fun multiplyByThree(x: Int): Int = x * 3;fun main() {    val answer = multiplyByThree(3)    println("answer = ${answer}")}

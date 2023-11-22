@@ -1,1 +1,0 @@
-package manipulatingListsimport atomicTest.eqfun main() {    val list = listOf(        listOf(1,2),        listOf(3,4),        listOf(7,8),    )    list.flatten() eq listOf(1,2,3,4,7,8)}

@@ -1,1 +1,0 @@
-package packages// 이처럼 클래스의 모든 계층적 구조를 포함하여 표현하는 것을 FQCN이라고 부른다.// Fully Qualified Class Namefun main() {    println(kotlin.math.PI)    println(kotlin.math.cos(kotlin.math.PI))    println(kotlin.math.cos(2 * kotlin.math.PI))}

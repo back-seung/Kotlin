@@ -1,1 +1,0 @@
-package enumerationsimport atomicTest.eqimport enumerations.Level.*fun main() {    OverFlow eq "OverFlow"    High eq "High"}

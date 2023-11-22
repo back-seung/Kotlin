@@ -1,1 +1,0 @@
-package inKeyWordfun isFloatRange(n: Double) {    val r = 1.0..10.0    println("$n in $r? ${n in r}")}fun main() {    isFloatRange(0.999999)    isFloatRange(5.0)    isFloatRange(10.0)       isFloatRange(10.000001)}

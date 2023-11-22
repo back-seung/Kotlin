@@ -1,1 +1,0 @@
-package abstracts// 추상 클래스는 하나 이상의 프로퍼티나 함수가 불완전하다는 점을 제외하면 일반 클래스와 같다.// 본문이 없는 함수 정의나 초깃값 대입을 하지 않는 프로퍼티 정의가 불완전한 정의다.// 인터페이스는 추상 클래스와 비슷하지만, 인터페이스는 추상 클래스와 달리 상태가 없다.abstract class WithProperty {    abstract val x: Int}abstract class WithFunctions {    abstract fun f(): Int    abstract fun g(n: Double)   // Unit}

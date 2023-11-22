@@ -1,1 +1,0 @@
-package objectsimport atomicTest.eqobject JustOne {    val n = 2    fun f() = n * 10    fun g() = this.n * 20}fun main() {    // 객체의 초기화 없이 사용해도 object로 선언한 모든 객체의 주소는 같다.    JustOne.n eq 2    JustOne.f() eq 20    JustOne.g() eq 40}

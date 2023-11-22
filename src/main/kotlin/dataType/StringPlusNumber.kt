@@ -1,1 +1,0 @@
-package dataTypefun main() {    println("Sally" + 5.9)    // println("Sally" * 5.9) 오류    // 타입 지정    var n: Int = 2    var p: Double = 1.2}

@@ -1,1 +1,0 @@
-package safeCallsElvisfun main() {    val s: String? = null    // 컴파일되지 않는다.    // Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type String?    // String? 타입의 널이 될 수 있는 수신 객체에는 안전한 (?.) 호출이나 널 아닌 단언(!!.) 호출만 사용할 수 있다는 뜻    // s.length}

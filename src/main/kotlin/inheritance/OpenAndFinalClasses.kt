@@ -1,1 +1,0 @@
-package inheritanceopen class Parentclass Child : Parent()//class GrandChild : Child() Child는 열려 있지 않으므로 상속이 허용되지 않음final class Single // 이 클래스는 상속될 수 없음class AnotherSingle // final과 같음

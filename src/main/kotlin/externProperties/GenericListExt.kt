@@ -1,1 +1,0 @@
-package externPropertiesimport atomicTest.eqimport introGenerics.firstOrNullval <T> List<T>.firsrOrNull: T?    get() = if (isEmpty()) null else this[0]fun main() {    listOf(1, 2, 3).firstOrNull() eq 1    listOf<String>().firstOrNull() eq null}

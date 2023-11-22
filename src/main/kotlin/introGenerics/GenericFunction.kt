@@ -1,1 +1,0 @@
-package introGenericsimport atomicTest.eqfun <T> identity(arg: T): T = argfun main() {    identity("Yellow") eq "Yello"    identity(1) eq 1    val d: Dog = identity(Dog())    d.bark() eq "Ruff"}

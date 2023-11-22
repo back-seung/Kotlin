@@ -1,1 +1,0 @@
-package sequencesimport atomicTest.eq// 시퀀스는 Stream과 같다.fun main() {    val list = listOf(1, 2, 3, 4)    list.filter { it % 2 == 0 }        .map { it * it }        .any { it < 10 } eq true    // 다음과 같다.    val mid1 = list.filter { it % 2 == 0 }    mid1 eq listOf(2, 4)    val mid2 = mid1.map { it * it }    mid2 eq listOf(4, 8)    mid2.any { it < 10 } eq true}

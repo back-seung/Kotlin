@@ -1,1 +1,0 @@
-package nullableTypesimport atomicTest.eqfun main() {    val s: String? = "abc"    if (s != null)  // 명시적으로 if로 검사하면 널이 될 수 있는 객체를 참조할 수 있도록 허용한다.        s.length eq 3}

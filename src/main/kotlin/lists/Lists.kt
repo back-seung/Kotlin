@@ -1,1 +1,0 @@
-package listsimport atomicTest.*fun main() {    val ints = listOf(99, 3, 5, 7, 11, 13)    ints eq "[99, 3, 5, 7, 11, 13]"    // List의 각 원소 iteration    var result = ""    for (i in ints) {        result += "$i "    }    result eq "99 3 5 7 11 13"    // List 원소 indexing    ints[4] eq 11}

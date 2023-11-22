@@ -1,1 +1,0 @@
-package objectsharingobject Shared {    var i: Int = 0}
