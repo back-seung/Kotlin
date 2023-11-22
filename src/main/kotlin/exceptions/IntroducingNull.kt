@@ -1,0 +1,1 @@
+package exceptionsimport atomicTest.eqfun main() {    "1$".toIntOrNull() eq null}

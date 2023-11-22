@@ -1,0 +1,1 @@
+package abstractsclasses// 인터페이스 안에서 프로퍼티에 값을 저장하는 것은 금지되어 있다.interface IntList {    val name: String    // 컴파일 되지 않는다.    // val list = listOf(0)}

@@ -1,0 +1,1 @@
+package overloadingimport atomicTest.eqclass My {    fun foo() = 0}fun My.foo() = 1 // 멤버 함수와 시그니처가 중복되는 확장 함수는 의미가 없다.fun My.foo(i: Int) = i + 2 // 확장 함수로 멤버 함수를 오버로딩 할 수 있다.fun main() {    My().foo() eq 0    My().foo(1) eq 3}

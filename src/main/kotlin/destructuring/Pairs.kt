@@ -1,0 +1,1 @@
+package destructuringimport atomicTest.eq// Pair는 List, Set처럼 파라미터화된 타입이다.fun compute(input: Int): Pair<Int, String> =    if (input > 5)        Pair(input * 2, "High")    else        Pair(input * 2, "Low")fun main() {    compute(7) eq Pair(14, "High")    compute(4) eq Pair(8, "Low")    val result = compute(5)    result.first eq 10    result.second eq "Low"}

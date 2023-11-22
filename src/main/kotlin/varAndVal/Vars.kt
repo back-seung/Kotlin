@@ -1,0 +1,1 @@
+package varAndVal// var - 변할 수 있는 수fun main() {    var whole = 11    var factional = 1.4    var words = "Twas Brilling"    println(whole)    println(factional)    println(words)    // 변경 가능    whole = 21    factional = 2.1    words = "Hello"    println(whole)    println(factional)    println(words)}

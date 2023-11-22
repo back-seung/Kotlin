@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3732d04-5aa5-4f7f-9ec3-bb2452ff1587" name="Changes" comment="아톰 ~ 72">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloKotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/META-INF/helloKotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/booleans/ClosedKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/booleans/EvaluationOrderKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/booleans/Open1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/dataType/StringPlusNumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/dataType/TypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/functions/MultiplyByFourKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/functions/MultiplyByThreeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/functions/MultiplyByTwoKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/helloWorld/EmptyProgramKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/ifExpression/If1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/ifExpression/If2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/ifExpression/If3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/ifExpression/OneOrTheOtherKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/ifExpression/TrurOrFalseKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/CharRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/FloatingPointRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/IterationVsMemberShipKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/MemberShipUsingBoundsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/MembershipInRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/inKeyWord/NonEqualsForKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/DefiningRangesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/ForWithCharRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/ForWithRangesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/HasCharKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/IndexIntoStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/IterateOverStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/RepeatHiKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/RepeatThreeTimesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/loopingAndRanges/SumUsingRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/repetitionWithWhile/AssignmentOperatorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/repetitionWithWhile/DoWhileLoopKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/repetitionWithWhile/WhileLoopKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/stringTemplate/ExpressionInTemplateKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/stringTemplate/StringTemplatesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/varAndVal/AVarIsMutableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/varAndVal/ValsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloKotlin/varAndVal/VarsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/AbstractKeyword.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/Implementations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/InterfaceCollision.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/MultipleInterfaceInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/NoMultipleInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/NoStateInInterfaces.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/PropertyAccessor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/Redundant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/abstracts/StateOfAClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/atomicTest/AtomicTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/baseClassInit/GreatApe3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/baseClassInit/House.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/baseClassInit/NoArgConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/baseClassInit/OtherConstructors.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/booleans/Closed.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/booleans/EvaluationOrder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/booleans/Open1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/AssociateBy.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/AssociateByUnique.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/AssociateWith.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/FilterMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/GetOrPut.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/GroupBy.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/GroupByVsFilter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/People.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/SimilarOperation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/buildingMaps/TransFormingMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classDelegation/BasicDelegation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classDelegation/DelegatedControls.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classDelegation/ExplicitDelegation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classDelegation/ModelingMI.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classDelegation/SpaceShipControls.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/CompanionDelegation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/CompanionFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/CompanionInstance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/CompanionObject.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/DelegateAndExtend.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/Initialization.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/NamingCompanionObjects.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/ObjectCounter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/ObjectFunctions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/companionObjects/ObjectProperty.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/complexConstructors/InitSection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/complexConstructors/SimpleConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/composition/Car.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/composition/Embedding.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/composition/House1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/composition/House2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/composition/House3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataClasses/CopyDataClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataClasses/HashCode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataClasses/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataClasses/Simple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataType/StringPlusNumber.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/dataType/Types.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/Computation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/ForLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/LoopWithIndex.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/PairDestructuring.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/Pairs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/destructuring/Tuple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/Creature.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/FilterIsInstance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/FindType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/IsKeyword.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/MutableSmartCast.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/NarrowingUpcast.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/Safe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/downCasting/Unsafe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumerations/CheckingOptions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumerations/Direction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumerations/EnumImport.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumerations/Level.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumerations/RecursiveEnumImport.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/AverageIncome.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/AverageIncomeWithException.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/AverageIncomeWithNull.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/IntroducingCapture.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/IntroducingNull.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exceptions/ToIntException.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/externProperties/AnyFromListOfStar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/externProperties/GenericListExt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/externProperties/ListOfStar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/externProperties/StringIndices.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/foldingLists/FoldRight.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/foldingLists/FoldVsForLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/foldingLists/ReduceAndReduceRight.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/foldingLists/RunningFold.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/foldingLists/SumViaFold.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/MultiplyByFour.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/MultiplyByThree.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/MultiplyByTwo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/helloWorld/EmptyProgram.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/Any.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/CallingReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/IsPlus.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/NullableFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/NullableReturn.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/Repeat.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/higherOrderFuntions/RepeatByInt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ifExpression/If1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ifExpression/If2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ifExpression/If3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ifExpression/OneOrTheOther.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ifExpression/TrurOrFalse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/Closures.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/Closures2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/Filter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/FilterEven.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/FunctionClosure.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/GreaterThan2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/StoringLambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/importantOfLambda/Sum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/CharRange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/FloatingPointRange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/IterationVsMemberShip.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/MemberShipUsingBounds.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/MembershipInRange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inKeyWord/NonEqualsFor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/BasicInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/GreatApe.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/GreatApe2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance/OpenAndFinalClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/Adapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/ComposeAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/Convention.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/DeviceExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/DeviceMembers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/ExtensionFuncs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/Heater.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/InheritAdd.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/NoExtOverride.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/PrivateAccess.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/TemperatureDelta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritanceExtensions/UsefulLibrary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/innerClass/CounterFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/innerClass/Hotel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/innerClass/InnerClassInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/innerClass/LocalInnerClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/innerClass/QualifiedThis.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/Computer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/Hotness.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/PlayerInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/SAM.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/SAMConversion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/interfaces/SAMImplementation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/introGenerics/AnyInstead.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/introGenerics/GenericFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/introGenerics/GenericHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/introGenerics/GenericListExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/introGenerics/RigidHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/BasicLambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/JoinToString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/LambdaAndNamedArgs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/LambdaIt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/LambdaTypeInference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/ListIndicesMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/Mapping.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/OmittingParentheses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/TwoArgLambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/Underscore.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambdas/ZeroArguments.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/ApparentlyMutableList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/ListUseFulFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/Lists.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/MultipleListRefs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/MutListisList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/MutableList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/OutOfBounds.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/ParameterizedReturn.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/ParameterizedTypes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lists/PlugAssignPuzzle.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/CustomLabel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/InterestingSessions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/LabledReturn.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/LocalExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/LocalFunctionReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/LocalFunctions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/ReturnFromFun.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/ReturnInsedeLambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/ReturningFunc.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/localFunctions/Session.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/DefiningRanges.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/ForWithCharRange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/ForWithRanges.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/HasChar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/IndexIntoString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/IterateOverString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/RepeatHi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/RepeatThreeTimes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/loopingAndRanges/SumUsingRange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/Flattern.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/FlatternAndFlatMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/PlayingCards.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/WhyFlatMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/ZipAndTransform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/Zipper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/manipulatingLists/ZippingWithNext.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/map/ContactMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/map/GetValue.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/map/Maps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/map/MutableMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/map/ReadOnlyMaps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/ConstructorReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/ExtensionReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/FunctionReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/PropertyReference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/SortWith.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/memberReference/TopLevelFunctionRef.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/ArgumentOrder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/Color2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/Color3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/CreateString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/CreateString2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/Evaluation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgs/NamedArguments.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nonNullAssertions/NonNullAssert.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nonNullAssertions/NonNullAssertCall.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nonNullAssertions/ValueFromMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableExtensions/NullableExtension.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableExtensions/NullableParameter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableExtensions/StringIsNullOr.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/Amphibian.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/Dereference.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/ExplicitCheck.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/NullInMaps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/NullableInMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/nullableTypes/NullableTypes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/GlobalSharing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/ObjectInheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/ObjectKeyword.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/ObjectNesting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/Share1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/objects/Share2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/ByOperations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/CreatingLists.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/FilterNotNull.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/ListInit.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/PairOfLists.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/Partition.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/Predicates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/SetOperations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/operationOnCollection/TakeOrDrop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/MemberVsExtension.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/OverloadedVsDefaultArg.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/OverloadingAdd.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/Overloaing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/WithDefaultArguments.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/overloading/WithoutDefaultArguments.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/packages/FullyQualify.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/packages/ImportEverything.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/packages/ImportNameChange.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/packages/ImportPythagorean.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/packages/PythagoreanTheorem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polymorphism/FantasyGame.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/polymorphism/Pet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/Counter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/Data.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/Default.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/Hamsters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/Hamsters2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/propertyAccessors/LogChanges.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/CallStack.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/Factorial.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/Fibonacci.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/InfiniteRecursion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/Iteration.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/RecursionLimits.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/TailRecursiveSum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/recursion/VerySlowFibonacci.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/repetitionWithWhile/AssignmentOperators.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/repetitionWithWhile/DoWhileLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/repetitionWithWhile/WhileLoop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/ChainedCalls.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/DereferenceNull.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/ElvisCall.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/ElvisOperator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/SafeCall.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/safeCallsElvis/SafeOperation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sealedClasses/SealedClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sealedClasses/SealedSubclasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sealedClasses/UnSealed.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/secondaryConstructors/GardenItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/secondaryConstructors/WithSecondary.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/DefineTakeIf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/EagerEvaluation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/EagerVsLazyEvaluation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/GenerateSequence1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/GenerateSequence2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/NoComputationYet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/NumberSequence2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sequences/TerminalOperations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sets/MutableSet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sets/RemoveDuplicates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/sets/Sets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stringTemplate/ExpressionInTemplate.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stringTemplate/StringTemplates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testing/TDDFail.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testing/TDDStillFail.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testing/TDDWork.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testing/TestingExample.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/testing/Trace1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/AnyName.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/BeverageContainer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/BeverageContainer2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/BeverageContainer3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/Insects.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/TypeCheck1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/TypeCheck2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/typeChecking/TypeCheck3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/upcasting/Assignment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/upcasting/Drawing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/upcasting/Shapes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/upcasting/TrimmedMembers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varAndVal/AVarIsMutable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varAndVal/Vals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varAndVal/Vars.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/ListOf.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/MainArgConversion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/MainArgs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/MainArgs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/SpreadOperator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/TwoFunctionsWithVarargs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/VarargLikeList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/VarargSum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/varargs/VariableArgList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/visibility/MultipleRef.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whenExpression/AnalyzeInput.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whenExpression/BmiWhen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whenExpression/GermanOrdinals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whenExpression/MatchingAgainstVals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/whenExpression/MixColors.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YWOFEAafoIdRxpKRaY75XyXqw8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mac/GitHub/Kotlin/helloKotlin&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3732d04-5aa5-4f7f-9ec3-bb2452ff1587" name="Changes" comment="" />
+      <created>1700637764744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700637764744</updated>
+      <workItem from="1700637765842" duration="158000" />
+      <workItem from="1700638030185" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+package overloadingimport atomicTest.eqfun f(n: Int) = n + 373fun f() = f(0) // 디폴트 인자를 흉내내지 말자.fun main() {    f() eq 373}

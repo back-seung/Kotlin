@@ -1,0 +1,1 @@
+package localFunctionsimport atomicTest.eqfun main() {    sessions.any(        fun(session: Session): Boolean {            if (session.title.contains("Kotlin") &&                session.speaker in favoriteSpeakers) {                return true            }            return false        }) eq true}

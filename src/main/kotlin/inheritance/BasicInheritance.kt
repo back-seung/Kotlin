@@ -1,0 +1,1 @@
+package inheritanceopen class Base // 기반 클래스, 기반 클래스는 open 키워드가 들어가야 상속이 허용됨class Derived : Base() // 파생 클래스

@@ -1,0 +1,1 @@
+package varargsimport atomicTest.eqfun main() {    // listOf가 인자를 1개든, 100개든 받을 수 있는 이유는 varargs 키워드를 사용했기 떄문이다.    // varargs = Variable Argument List    listOf(1) eq "[1]"    listOf("a", "b") eq "[a, b]"}

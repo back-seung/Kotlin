@@ -1,0 +1,1 @@
+package inKeyWordfun main() {    val percent = 35    println(percent >= 0 && percent <= 100) // 0..100}
