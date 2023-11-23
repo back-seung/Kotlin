@@ -10,7 +10,15 @@ repositories {
 }
 
 dependencies {
-    testImplementation(kotlin("test"))
+    // logging
+    implementation("org.slf4j:slf4j-simple:1.7.25")
+    implementation("io.github.microutils:kotlin-logging-jvm:2.0.10")
+
+    // test
+    implementation(kotlin("test"))
+    implementation(kotlin("test-junit"))
+    testImplementation("org.junit.platform:junit-platform-launcher")
+    testImplementation("org.junit.platform:junit-platform-engine")
 }
 
 tasks.test {
